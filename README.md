@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @Matchi1
 - 👨‍🎓 I am a student in Université Gustave Eiffel in Paris. Currently, in my last year of Master's degree.
-- 💻 I am also an apprentice in Qarnot, France.
+- 💻 I am also an apprentice in <a href=https://qarnot.com/fr> Qarnot</a>, in France.
 - 🕹️ I am quite fond of video games
   - I am currently on Valorant, a challenging FPS game which is highly competitive
 - 📫 How to reach me mathieu1.chan@gmail.com
