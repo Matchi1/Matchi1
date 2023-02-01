@@ -1,3 +1,5 @@
+[![MasterHead](banner.png)](https://github.com/Matchi1)
+
 - 👋 Hi, I’m @Matchi1
 - 👀 I’m interested in Haskell (currently), C
 - 🌱 I’m currently learning Haskell, embedded system
