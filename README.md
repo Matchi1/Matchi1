@@ -29,6 +29,11 @@ You can click the Preview link to take a look at your changes.
 <p align=left>
   <img height=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
   <img height=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg" />       
-  <img height=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
-          
+  <img height=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />      
 </p>
+
+## Contact me
+
+<a href="https://www.linkedin.com/in/mathieu-chan/">
+  <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
+</a>
