@@ -19,4 +19,7 @@ You can click the Preview link to take a look at your changes.
   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg" />
   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
+  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />        
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matchi1&layout=compact&theme=tokyonight&hide=jupyter%20notebook)](https://github.com/Matchi1)
